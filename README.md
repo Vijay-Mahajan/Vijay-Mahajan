@@ -10,6 +10,7 @@
 
 <br />
 <br />
+
 ### About Me : 
 
 I'm an student of **Computer Application**. I'm very passionate about making my own tools for **Kali Linux,**. Some technologies I enjoy working with, include :`Java, CPP, JavaScript, C, CSS, HTML, Python.` I am also Studying **Cyber Security And Ethical Hacking**.I also Love Sharing my knowledge with others. I love **Mentoring Juniors**.
@@ -24,7 +25,7 @@ I'm an student of **Computer Application**. I'm very passionate about making my 
 - 👯 I’m looking to collaborate on **College Project And Ethical Hacking** 🤝
 - 🤔 I’m looking for help with **Open-Source Contribution** :-)
 - 💬 Ask me about anything, I am happy to help.
-- ⚡️ [**Crazy Indian Developer**](https://www.youtube.com/channel/UCnij5U2Ic3PtpzCWmmydP7g?sub_confirmation=1):My future Project which helps the community to better understand about various **Programming Languages ,Cyber Security and Hacking.** 
+- ⚡️ [**Crazy Indian Developer**](https://www.youtube.com/channel/UCnij5U2Ic3PtpzCWmmydP7g?sub_confirmation=1) : My future Project which helps the community to better understand about various **Programming Languages ,Cyber Security and Hacking.** 
 - ⚡️ Crazy Indian Developer --> [**YouTube**](https://www.youtube.com/channel/UCnij5U2Ic3PtpzCWmmydP7g?sub_confirmation=1) **&** [**Instagram**](https://www.instagram.com/crazy_indian_developer/?hl=en)
 - 📫 How to reach me: [**Instagram**](https://www.instagram.com/mahajan__vijay) - I just love meeting people here.
 
