@@ -1,14 +1,11 @@
 ### Hi there 👋 I'm Vijay Mahajan 👋🏾‍💻		--------==>	![Profile Views Counter](https://komarev.com/ghpvc/?username=Vijay-Mahajan&label=PROFILE+VIEWS&color=green) </pre>
 
-
-<br />
 <br />
 
 <p align="center">
 	<a href="https://github.com/Vijay-Mahajan"><img src="https://img.shields.io/github/followers/Vijay-Mahajan.svg?label=GitHub&style=social" alt="GitHub" height="20"></a>
 </p>
 
-<br />
 <br />
 
 ### About Me : 
