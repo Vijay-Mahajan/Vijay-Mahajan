@@ -5,7 +5,7 @@
 
 ### About Me : 
 
-I'm an student of **Computer Application**. I'm very passionate about making my own tools for **Kali Linux,**. Some technologies I enjoy working with, include :`Java, CPP, JavaScript, C, CSS, HTML, Python.` I am also Studying **Cyber Security And Ethical Hacking**.I also Love Sharing my knowledge with others. I love **Mentoring Juniors**.
+I'm an student of **Computer Application**. I'm very passionate about making my own tools for **Kali Linux,**. Some technologies I enjoy working with, include :`Java, CPP, JavaScript, C, CSS, HTML, Python.` I am also Studying **Cyber Security And Ethical Hacking**.I also Love Sharing my knowledge with others. I love **Mentoring Juniors**.This is backup profile goto my Original Profile [**Crazy Indian Developer**](https://github.com/CrazyIndianDeveloper)
 
 <br />
 
