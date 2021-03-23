@@ -39,14 +39,15 @@ I'm an student of **Computer Application**. I'm very passionate about making my 
 
 <p><br/>&nbsp;<img align="center"[states] src="https://github-readme-stats.vercel.app/api?username=vijay-mahajan&show_icons=true&locale=en&show_owner=true" alt="crazyindiandeveloper	" /></p>
 
+
+## THANK YOU !  :sparkling_heart:  
+
 <!--
 ## My Popular repositories
 <a href="https://github.com/crazyindiandeveloper/XeroSploit-Installer">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crazyindiandeveloper&repo=XeroSploit-Installer&theme=material-palenight" />
 </a>
 <br />
-
-## THANK YOU !  :sparkling_heart:  
 
 
 <!--
